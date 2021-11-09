@@ -11,3 +11,6 @@ User.destroy_all
 10.times do |i|
 	User.create(email: "sam0#{i}@yopmail.com", password: "123456789")
 end
+
+10.times do |i|
+	Event.create()
