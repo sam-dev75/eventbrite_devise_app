@@ -12,5 +12,5 @@
 
 ## For production mode
 
-Go to https://git.heroku.com/eventbrite-like-togne.git
+Go to https://git.heroku.com/eventbrite-devise-sam.git
 # eventbrite_devise_app
